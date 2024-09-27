@@ -23,3 +23,6 @@
 
 ### [ Android Developer ]
 - [hasandramali](https://github.com/hasandramali) <img width="24" height="24" src="https://avatars.githubusercontent.com/u/93338836?v=4" alt="hasandramali" />
+
+### [ Testers ]
+- [j-chcode](https://github.com/j-chcode) <img width="24" height="24" src="https://avatars.githubusercontent.com/u/180520448?v=4" alt="j-chcode" />
